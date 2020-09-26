@@ -1,0 +1,1033 @@
+,Polarity,Aspect,Id
+0,positive,Boot time,0
+1,negative,tech support,1
+2,No value found,No value found,2
+3,positive,Set up,3
+4,negative,Windows 8,4
+5,negative,touchscreen functions,5
+6,No value found,No value found,6
+7,negative,internal speakers,7
+8,positive,price tag,8
+9,negative,click pads,9
+10,No value found,No value found,10
+11,neutral,installation disk (DVD),11
+12,positive,use,12
+13,positive,Works,13
+14,positive,apple OS,14
+15,No value found,No value found,15
+16,positive,features,16
+17,positive,log on,17
+18,positive,WiFi connection,18
+19,positive,battery life,19
+20,negative,delete key,20
+21,negative,interneting,21
+22,positive,priced,22
+23,No value found,No value found,23
+24,No value found,No value found,24
+25,positive,works,25
+26,negative,track pad,26
+27,No value found,No value found,27
+28,positive,graphics,28
+29,negative,mountain lion,29
+30,positive,durability,30
+31,positive,build,31
+32,positive,battery life,32
+33,No value found,No value found,33
+34,positive,works,34
+35,No value found,No value found,35
+36,positive,Windows 8,36
+37,positive,baterry,37
+38,No value found,No value found,38
+39,positive,size,39
+40,positive,weight,40
+41,No value found,No value found,41
+42,No value found,No value found,42
+43,positive,performance,43
+44,No value found,No value found,44
+45,No value found,No value found,45
+46,negative,USB ports,46
+47,No value found,No value found,47
+48,No value found,No value found,48
+49,positive,speed,49
+50,positive,screen,50
+51,No value found,No value found,51
+52,positive,price,52
+53,positive,Hardware performance,53
+54,No value found,No value found,54
+55,positive,works,55
+56,positive,set up,56
+57,No value found,No value found,57
+58,positive,Keyboard,58
+59,No value found,No value found,59
+60,negative,Windows 8,60
+61,No value found,No value found,61
+62,No value found,No value found,62
+63,positive,setup,63
+64,positive,configure,64
+65,No value found,No value found,65
+66,No value found,No value found,66
+67,negative,Windows 8,67
+68,negative,usb ports,68
+69,No value found,No value found,69
+70,No value found,No value found,70
+71,positive,features,71
+72,positive,screen,72
+73,positive,keyboard,73
+74,No value found,No value found,74
+75,positive,Performance,75
+76,No value found,No value found,76
+77,No value found,No value found,77
+78,positive,quality,78
+79,positive,performance,79
+80,positive,OS,80
+81,No value found,No value found,81
+82,positive,portability,82
+83,No value found,No value found,83
+84,positive,portable computing,84
+85,negative,Windows 8,85
+86,positive,MS Office 2011 for Mac,86
+87,No value found,No value found,87
+88,negative,performance,88
+89,No value found,No value found,89
+90,No value found,No value found,90
+91,positive,look,91
+92,positive,performance,92
+93,positive,lit up keys,93
+94,positive,screen display,94
+95,No value found,No value found,95
+96,positive,Mountain Lion OS,96
+97,neutral,Microsoft Windows,97
+98,negative,OSX,98
+99,No value found,No value found,99
+100,positive,Microsoft Office,100
+101,No value found,No value found,101
+102,No value found,No value found,102
+103,positive,graphics,103
+104,positive,colors,104
+105,No value found,No value found,105
+106,No value found,No value found,106
+107,positive,Built-in apps,107
+108,negative,Screen resolution,108
+109,positive,operating system,109
+110,negative,Windows,110
+111,positive,speed,111
+112,positive,multi touch gestures,112
+113,positive,size,113
+114,No value found,No value found,114
+115,positive,SquareTrade 3-Year Computer Accidental Protection Warranty,115
+116,negative,AppleCare,116
+117,positive,transport,117
+118,negative,Windows 8 Set-Up,118
+119,No value found,No value found,119
+120,No value found,No value found,120
+121,neutral,size,121
+122,neutral,retina display,122
+123,No value found,No value found,123
+124,No value found,No value found,124
+125,positive,design,125
+126,positive,aluminum casing,126
+127,positive,aluminum body,127
+128,No value found,No value found,128
+129,positive,integrate bluetooth devices,129
+130,positive,USB devices,130
+131,No value found,No value found,131
+132,No value found,No value found,132
+133,No value found,No value found,133
+134,negative,Intel4000 graphic chip,134
+135,No value found,No value found,135
+136,neutral,DVD drive Firewire port,136
+137,neutral,adapter,137
+138,negative,SDXC slot,138
+139,No value found,No value found,139
+140,No value found,No value found,140
+141,positive,durability,141
+142,positive,designed,142
+143,No value found,No value found,143
+144,positive,use,144
+145,positive,value,145
+146,positive,specs,146
+147,No value found,No value found,147
+148,No value found,No value found,148
+149,No value found,No value found,149
+150,No value found,No value found,150
+151,positive,product quality,151
+152,positive,aesthetics,152
+153,positive,craftmanship,153
+154,positive,customer service,154
+155,No value found,No value found,155
+156,No value found,No value found,156
+157,positive,size,157
+158,positive,windows 8,158
+159,No value found,No value found,159
+160,negative,Windows 8,160
+161,negative,Startup times,161
+162,No value found,No value found,162
+163,No value found,No value found,163
+164,positive,colors,164
+165,No value found,No value found,165
+166,positive,price,166
+167,positive,shipping,167
+168,positive,mouse,168
+169,No value found,No value found,169
+170,No value found,No value found,170
+171,neutral,battery,171
+172,positive,windows 7,172
+173,No value found,No value found,173
+174,positive,price,174
+175,positive,delivery,175
+176,positive,service,176
+177,positive,customer service,177
+178,negative,windows 8,178
+179,conflict,price,179
+180,No value found,No value found,180
+181,positive,Set up,181
+182,negative,Win8,182
+183,No value found,No value found,183
+184,neutral,features,184
+185,No value found,No value found,185
+186,negative,price,186
+187,negative,OSX,187
+188,negative,support for games,188
+189,positive,mobility,189
+190,No value found,No value found,190
+191,No value found,No value found,191
+192,No value found,No value found,192
+193,conflict,price,193
+194,positive,set up,194
+195,positive,USB3,195
+196,No value found,No value found,196
+197,positive,sound,197
+198,positive,track pad,198
+199,No value found,No value found,199
+200,No value found,No value found,200
+201,No value found,No value found,201
+202,No value found,No value found,202
+203,negative,settings,203
+204,No value found,No value found,204
+205,No value found,No value found,205
+206,No value found,No value found,206
+207,positive,OpenOffice,207
+208,positive,form factor,208
+209,positive,battery life,209
+210,positive,UX,210
+211,No value found,No value found,211
+212,No value found,No value found,212
+213,positive,keyboard,213
+214,positive,screen,214
+215,No value found,No value found,215
+216,No value found,No value found,216
+217,negative,touchpad,217
+218,No value found,No value found,218
+219,positive,Mavericks,219
+220,No value found,No value found,220
+221,No value found,No value found,221
+222,No value found,No value found,222
+223,negative,i5,223
+224,No value found,No value found,224
+225,No value found,No value found,225
+226,No value found,No value found,226
+227,No value found,No value found,227
+228,positive,service,228
+229,positive,shipping,229
+230,No value found,No value found,230
+231,No value found,No value found,231
+232,No value found,No value found,232
+233,positive,performance,233
+234,positive,built-in applications,234
+235,positive,iPhoto,235
+236,No value found,No value found,236
+237,neutral,hard drive,237
+238,positive,Samsung 830 SSD,238
+239,No value found,No value found,239
+240,No value found,No value found,240
+241,No value found,No value found,241
+242,No value found,No value found,242
+243,No value found,No value found,243
+244,No value found,No value found,244
+245,No value found,No value found,245
+246,No value found,No value found,246
+247,No value found,No value found,247
+248,No value found,No value found,248
+249,positive,Starts up,249
+250,No value found,No value found,250
+251,No value found,No value found,251
+252,No value found,No value found,252
+253,negative,aluminum,253
+254,No value found,No value found,254
+255,No value found,No value found,255
+256,positive,built in virus control,256
+257,neutral,retina display,257
+258,No value found,No value found,258
+259,No value found,No value found,259
+260,negative,components,260
+261,No value found,No value found,261
+262,No value found,No value found,262
+263,No value found,No value found,263
+264,negative,hardware,264
+265,positive,battery,265
+266,positive,snow lion,266
+267,No value found,No value found,267
+268,negative,shipping,268
+269,No value found,No value found,269
+270,No value found,No value found,270
+271,No value found,No value found,271
+272,positive,features,272
+273,No value found,No value found,273
+274,No value found,No value found,274
+275,positive,quality,275
+276,negative,keyboard,276
+277,No value found,No value found,277
+278,negative,sound quality,278
+279,positive,navigate,279
+280,No value found,No value found,280
+281,No value found,No value found,281
+282,positive,battery life,282
+283,positive,Performance,283
+284,positive,Quality,284
+285,No value found,No value found,285
+286,No value found,No value found,286
+287,neutral,windows XP,287
+288,neutral,windows Vista,288
+289,neutral,Windows 7,289
+290,No value found,No value found,290
+291,No value found,No value found,291
+292,neutral,SSD drive,292
+293,neutral,memory,293
+294,No value found,No value found,294
+295,No value found,No value found,295
+296,negative,start up,296
+297,negative,itune,297
+298,No value found,No value found,298
+299,neutral,OS,299
+300,No value found,No value found,300
+301,negative,restore disks,301
+302,negative,charging cables,302
+303,negative,material,303
+304,neutral,graphic design,304
+305,No value found,No value found,305
+306,No value found,No value found,306
+307,neutral,external mics,307
+308,positive,os,308
+309,No value found,No value found,309
+310,conflict,screen,310
+311,No value found,No value found,311
+312,positive,works,312
+313,positive,System,313
+314,positive,customize setting,314
+315,positive,create your own bookmarks,315
+316,No value found,No value found,316
+317,neutral,wireless keyboard / mouse,317
+318,neutral,HDMI cable,318
+319,No value found,No value found,319
+320,positive,features,320
+321,positive,price,321
+322,positive,working,322
+323,neutral,gaming,323
+324,No value found,No value found,324
+325,positive,operating system,325
+326,No value found,No value found,326
+327,positive,set up,327
+328,positive,hard drive,328
+329,positive,boots up,329
+330,negative,scanning,330
+331,No value found,No value found,331
+332,neutral,price point,332
+333,No value found,No value found,333
+334,positive,works,334
+335,No value found,No value found,335
+336,positive,working,336
+337,positive,surfing,337
+338,No value found,No value found,338
+339,positive,works,339
+340,positive,software,340
+341,No value found,No value found,341
+342,No value found,No value found,342
+343,neutral,word processing,343
+344,neutral,web browsing,344
+345,neutral,gaming,345
+346,neutral,programming,346
+347,No value found,No value found,347
+348,negative,function,348
+349,No value found,No value found,349
+350,neutral,performance,350
+351,negative,"Apple ""Help""",351
+352,No value found,No value found,352
+353,negative,work,353
+354,No value found,No value found,354
+355,negative,Harddrive,355
+356,negative,on/off switch,356
+357,No value found,No value found,357
+358,negative,instructions,358
+359,negative,gaming,359
+360,conflict,integrated Intel 4000 graphics,360
+361,No value found,No value found,361
+362,conflict,features,362
+363,positive,content creation,363
+364,positive,Audio,364
+365,positive,video,365
+366,positive,photo editing,366
+367,No value found,No value found,367
+368,positive,Screen,368
+369,No value found,No value found,369
+370,neutral,brightness,370
+371,No value found,No value found,371
+372,neutral,applications,372
+373,positive,use,373
+374,No value found,No value found,374
+375,positive,use,375
+376,No value found,No value found,376
+377,positive,i5 processor,377
+378,No value found,No value found,378
+379,positive,built in features,379
+380,No value found,No value found,380
+381,positive,screen,381
+382,positive,keyboard,382
+383,No value found,No value found,383
+384,positive,delivery,384
+385,No value found,No value found,385
+386,neutral,SSD,386
+387,neutral,16Gb RAM,387
+388,negative,memory,388
+389,No value found,No value found,389
+390,positive,works,390
+391,No value found,No value found,391
+392,positive,design,392
+393,positive,keyboard,393
+394,positive,ports,394
+395,No value found,No value found,395
+396,positive,service,396
+397,No value found,No value found,397
+398,positive,Web browsing,398
+399,positive,Safari browser,399
+400,No value found,No value found,400
+401,positive,lighted screen,401
+402,No value found,No value found,402
+403,positive,use,403
+404,positive,start up,404
+405,negative,operation,405
+406,No value found,No value found,406
+407,positive,USB3 Peripherals,407
+408,negative,ThunderBolt,408
+409,No value found,No value found,409
+410,positive,warranty,410
+411,No value found,No value found,411
+412,positive,media editing,412
+413,No value found,No value found,413
+414,positive,battery,414
+415,positive,user experience,415
+416,No value found,No value found,416
+417,No value found,No value found,417
+418,positive,shipment,418
+419,positive,price,419
+420,positive,performance,420
+421,positive,usability,421
+422,positive,presentation,422
+423,positive,time response,423
+424,positive,size,424
+425,negative,Mac OS,425
+426,No value found,No value found,426
+427,neutral,Legacy programs,427
+428,neutral,Appleworks,428
+429,neutral,FileMaker Pro,429
+430,neutral,Quicken,430
+431,neutral,Photoshop,431
+432,No value found,No value found,432
+433,positive,operating system,433
+434,No value found,No value found,434
+435,positive,form factor,435
+436,No value found,No value found,436
+437,positive,loading the internet,437
+438,positive,looking,438
+439,No value found,No value found,439
+440,neutral,XP,440
+441,negative,support,441
+442,No value found,No value found,442
+443,positive,OS,443
+444,positive,overall build,444
+445,positive,keyboard,445
+446,No value found,No value found,446
+447,No value found,No value found,447
+448,positive,construction,448
+449,neutral,system,449
+450,No value found,No value found,450
+451,positive,unibody construction,451
+452,No value found,No value found,452
+453,positive,runs,453
+454,No value found,No value found,454
+455,neutral,disk drive,455
+456,neutral,HDMI receptacle,456
+457,neutral,SD card slot,457
+458,No value found,No value found,458
+459,positive,works,459
+460,No value found,No value found,460
+461,neutral,design app,461
+462,negative,TRACKPAD,462
+463,No value found,No value found,463
+464,No value found,No value found,464
+465,positive,finish,465
+466,positive,looks,466
+467,positive,feels,467
+468,No value found,No value found,468
+469,negative,Price,469
+470,positive,price,470
+471,No value found,No value found,471
+472,negative,system,472
+473,negative,power down,473
+474,No value found,No value found,474
+475,positive,configuration,475
+476,negative,speakers,476
+477,No value found,No value found,477
+478,positive,looks,478
+479,positive,use,479
+480,positive,trackpad,480
+481,No value found,No value found,481
+482,positive,Web surfuring,482
+483,No value found,No value found,483
+484,positive,interface,484
+485,positive,portability,485
+486,No value found,No value found,486
+487,positive,works,487
+488,positive,carry,488
+489,positive,handle,489
+490,No value found,No value found,490
+491,negative,performance,491
+492,negative,battery lifetime,492
+493,negative,hardware (keyboard),493
+494,No value found,No value found,494
+495,positive,Runs,495
+496,positive,footprint,496
+497,No value found,No value found,497
+498,positive,exterior,498
+499,No value found,No value found,499
+500,positive,performance,500
+501,No value found,No value found,501
+502,neutral,intel 4000 graphics chipset,502
+503,neutral,design,503
+504,No value found,No value found,504
+505,neutral,OSX Mountain Lion,505
+506,neutral,Mavericks,506
+507,No value found,No value found,507
+508,negative,USB ports,508
+509,No value found,No value found,509
+510,neutral,lid,510
+511,positive,wakes,511
+512,positive,size,512
+513,positive,speed,513
+514,No value found,No value found,514
+515,positive,CUSTOMER SERVICE,515
+516,No value found,No value found,516
+517,positive,performed,517
+518,positive,battery cycle count,518
+519,positive,hardware,519
+520,negative,OS,520
+521,No value found,No value found,521
+522,negative,finger swipes,522
+523,neutral,mouse,523
+524,neutral,storage,524
+525,neutral,screen,525
+526,neutral,photoshop,526
+527,positive,Mac OS,527
+528,negative,speaker quality,528
+529,No value found,No value found,529
+530,positive,Shipped,530
+531,No value found,No value found,531
+532,positive,thunderbolt port,532
+533,No value found,No value found,533
+534,positive,performance,534
+535,positive,streaming video,535
+536,positive,entertainment uses,536
+537,No value found,No value found,537
+538,positive,design,538
+539,positive,features,539
+540,negative,Mac office,540
+541,No value found,No value found,541
+542,neutral,Apple Tech Support,542
+543,negative,spec,543
+544,positive,works,544
+545,positive,use,545
+546,positive,looks,546
+547,neutral,Office,547
+548,neutral,retina display,548
+549,No value found,No value found,549
+550,positive,Performance,550
+551,positive,SSD,551
+552,neutral,MagSafe accessories,552
+553,negative,MagSafe 2 connection,553
+554,No value found,No value found,554
+555,negative,touchpad,555
+556,neutral,mouse,556
+557,No value found,No value found,557
+558,positive,runs,558
+559,positive,fans,559
+560,negative,Mac OS,560
+561,No value found,No value found,561
+562,neutral,Mac ecosystem,562
+563,positive,price,563
+564,No value found,No value found,564
+565,positive,use,565
+566,positive,appearance,566
+567,positive,functionality,567
+568,No value found,No value found,568
+569,No value found,No value found,569
+570,No value found,No value found,570
+571,No value found,No value found,571
+572,No value found,No value found,572
+573,No value found,No value found,573
+574,positive,graphic design,574
+575,No value found,No value found,575
+576,No value found,No value found,576
+577,No value found,No value found,577
+578,negative,slot,578
+579,No value found,No value found,579
+580,positive,OS,580
+581,No value found,No value found,581
+582,No value found,No value found,582
+583,No value found,No value found,583
+584,No value found,No value found,584
+585,No value found,No value found,585
+586,positive,use,586
+587,No value found,No value found,587
+588,No value found,No value found,588
+589,No value found,No value found,589
+590,positive,SSD,590
+591,No value found,No value found,591
+592,No value found,No value found,592
+593,No value found,No value found,593
+594,neutral,built-in camera,594
+595,negative,voice recording,595
+596,No value found,No value found,596
+597,No value found,No value found,597
+598,positive,start up,598
+599,No value found,No value found,599
+600,positive,functionality,600
+601,positive,function,601
+602,positive,Graphics,602
+603,positive,Build Quality,603
+604,positive,unibody construction,604
+605,No value found,No value found,605
+606,positive,flexibility for connectivity,606
+607,positive,portability,607
+608,No value found,No value found,608
+609,positive,Mac tutorials,609
+610,No value found,No value found,610
+611,negative,technical support,611
+612,neutral,adapter,612
+613,neutral,technical support,613
+614,No value found,No value found,614
+615,No value found,No value found,615
+616,neutral,iPhoto,616
+617,neutral,garage band,617
+618,No value found,No value found,618
+619,positive,Logic board,619
+620,No value found,No value found,620
+621,negative,sound,621
+622,negative,volume,622
+623,No value found,No value found,623
+624,No value found,No value found,624
+625,positive,OSX Lion,625
+626,No value found,No value found,626
+627,No value found,No value found,627
+628,negative,application,628
+629,positive,physical form,629
+630,No value found,No value found,630
+631,No value found,No value found,631
+632,positive,body,632
+633,positive,unibody construction,633
+634,No value found,No value found,634
+635,No value found,No value found,635
+636,No value found,No value found,636
+637,negative,3D rendering,637
+638,neutral,OS X Mountain Lion,638
+639,No value found,No value found,639
+640,No value found,No value found,640
+641,positive,screen,641
+642,positive,apps,642
+643,neutral,priced,643
+644,neutral,cost,644
+645,neutral,boot,645
+646,neutral,ports,646
+647,neutral,Quad-Core 2.5 GHz CPU,647
+648,neutral,Radeon HD 6750M 512MB graphic card,648
+649,neutral,integrated Intel 4000 card,649
+650,neutral,wireless Apple Keyboard and Mouse,650
+651,positive,package,651
+652,neutral,cover,652
+653,positive,gestures,653
+654,neutral,extender cable,654
+655,positive,cable,655
+656,No value found,No value found,656
+657,positive,2.9ghz dual-core i7 chip,657
+658,No value found,No value found,658
+659,No value found,No value found,659
+660,positive,starts up,660
+661,No value found,No value found,661
+662,conflict,heat,662
+663,conflict,noise,663
+664,neutral,Windows 8,664
+665,No value found,No value found,665
+666,negative,internal CD drive,666
+667,neutral,hard drive,667
+668,neutral,network lights,668
+669,No value found,No value found,669
+670,No value found,No value found,670
+671,No value found,No value found,671
+672,No value found,No value found,672
+673,neutral,priced,673
+674,No value found,No value found,674
+675,No value found,No value found,675
+676,positive,storage,676
+677,positive,ports,677
+678,No value found,No value found,678
+679,negative,audio volume,679
+680,No value found,No value found,680
+681,No value found,No value found,681
+682,positive,size,682
+683,No value found,No value found,683
+684,No value found,No value found,684
+685,No value found,No value found,685
+686,No value found,No value found,686
+687,No value found,No value found,687
+688,No value found,No value found,688
+689,neutral,Windows 8,689
+690,No value found,No value found,690
+691,No value found,No value found,691
+692,positive,capabilities,692
+693,neutral,settings,693
+694,positive,Runs,694
+695,No value found,No value found,695
+696,No value found,No value found,696
+697,No value found,No value found,697
+698,negative,Boot-up,698
+699,negative,Windows updates,699
+700,negative,logic board,700
+701,No value found,No value found,701
+702,positive,internet,702
+703,positive,word processing,703
+704,positive,graphic design,704
+705,positive,gaming,705
+706,No value found,No value found,706
+707,positive,setup,707
+708,positive,install,708
+709,neutral,tutorial,709
+710,neutral,features,710
+711,neutral,right mouse click menu,711
+712,No value found,No value found,712
+713,No value found,No value found,713
+714,positive,Runs,714
+715,No value found,No value found,715
+716,positive,RAM memory,716
+717,negative,profile,717
+718,No value found,No value found,718
+719,No value found,No value found,719
+720,positive,disk drive,720
+721,positive,USB ports,721
+722,positive,WiFi capability,722
+723,negative,SD card reader,723
+724,negative,nail slot on the card,724
+725,negative,slot,725
+726,positive,touch,726
+727,positive,anodized aluminum,727
+728,positive,aluminium,728
+729,positive,glass,729
+730,positive,aluminum,730
+731,No value found,No value found,731
+732,neutral,16GB of RAM,732
+733,neutral,Seagate Momentus XT hybrid drives,733
+734,neutral,OWC upgrade kit,734
+735,neutral,hard drive,735
+736,positive,number pad on the keyboard,736
+737,No value found,No value found,737
+738,No value found,No value found,738
+739,positive,regular hard drive,739
+740,neutral,CD slot,740
+741,neutral,HDMI port,741
+742,negative,install Mountain Lion,742
+743,negative,Customization,743
+744,No value found,No value found,744
+745,No value found,No value found,745
+746,neutral,HD,746
+747,neutral,Micron SSD,747
+748,positive,two finger clicking,748
+749,neutral,right click button,749
+750,No value found,No value found,750
+751,positive,SuperDrive,751
+752,No value found,No value found,752
+753,negative,power plug,753
+754,neutral,power adaptor,754
+755,neutral,battery,755
+756,No value found,No value found,756
+757,negative,battery,757
+758,No value found,No value found,758
+759,positive,practicality,759
+760,positive,OS,760
+761,No value found,No value found,761
+762,neutral,monitors,762
+763,neutral,HDMI cables,763
+764,negative,Price,764
+765,No value found,No value found,765
+766,No value found,No value found,766
+767,neutral,AC adaptor,767
+768,No value found,No value found,768
+769,neutral,Fan,769
+770,neutral,playing a game,770
+771,neutral,USB 2 ports,771
+772,neutral,startup disk,772
+773,neutral,"""tools"" menu",773
+774,negative,word program,774
+775,neutral,CD/DVD drive,775
+776,negative,power switch,776
+777,No value found,No value found,777
+778,negative,Windows 7,778
+779,negative,Windows 8,779
+780,No value found,No value found,780
+781,No value found,No value found,781
+782,positive,install,782
+783,positive,configure for ADSl cable or wifi,783
+784,No value found,No value found,784
+785,conflict,speakers,785
+786,No value found,No value found,786
+787,No value found,No value found,787
+788,positive,packing,788
+789,No value found,No value found,789
+790,positive,windows,790
+791,No value found,No value found,791
+792,negative,iDVD,792
+793,positive,Windows 7,793
+794,negative,Mac system,794
+795,neutral,windows,795
+796,No value found,No value found,796
+797,positive,works,797
+798,positive,software,798
+799,neutral,OS,799
+800,No value found,No value found,800
+801,positive,works,801
+802,No value found,No value found,802
+803,No value found,No value found,803
+804,positive,Runs,804
+805,No value found,No value found,805
+806,positive,price,806
+807,neutral,OS,807
+808,No value found,No value found,808
+809,positive,touch pad,809
+810,conflict,reliability,810
+811,conflict,sound,811
+812,neutral,headphones,812
+813,conflict,track pad,813
+814,positive,OS,814
+815,positive,application,815
+816,No value found,No value found,816
+817,negative,price,817
+818,negative,battery,818
+819,conflict,price,819
+820,conflict,speed,820
+821,No value found,No value found,821
+822,positive,Shipping,822
+823,No value found,No value found,823
+824,No value found,No value found,824
+825,positive,retina display display,825
+826,No value found,No value found,826
+827,positive,compact computing,827
+828,neutral,performance and feature set of the hardware,828
+829,No value found,No value found,829
+830,No value found,No value found,830
+831,No value found,No value found,831
+832,neutral,ports,832
+833,neutral,FireWire 800,833
+834,neutral,Gigabit Ethernet,834
+835,neutral,MagSafe port,835
+836,neutral,Microphone jack,836
+837,No value found,No value found,837
+838,No value found,No value found,838
+839,negative,ventilation system,839
+840,neutral,watching videos,840
+841,neutral,playing steam games,841
+842,No value found,No value found,842
+843,neutral,Acer support,843
+844,neutral,operating system files,844
+845,neutral,keys,845
+846,negative,OS,846
+847,positive,Lion,847
+848,positive,MAC OS,848
+849,positive,RAM,849
+850,positive,HDD,850
+851,positive,CD/DVD player,851
+852,No value found,No value found,852
+853,No value found,No value found,853
+854,conflict,RAM memory,854
+855,No value found,No value found,855
+856,No value found,No value found,856
+857,neutral,os.x,857
+858,positive,windows,858
+859,neutral,windows,859
+860,No value found,No value found,860
+861,No value found,No value found,861
+862,neutral,OS,862
+863,neutral,softwares,863
+864,No value found,No value found,864
+865,neutral,"Mac OS X 10.8 ""Mountain Lion""",865
+866,No value found,No value found,866
+867,No value found,No value found,867
+868,positive,performance,868
+869,neutral,built in screen size,869
+870,neutral,"external 24"" LCD screen",870
+871,No value found,No value found,871
+872,negative,install software,872
+873,neutral,DVD slot,873
+874,neutral,word processing program,874
+875,neutral,"third-generation CPU (""Ivy Bridge"")",875
+876,neutral,fourth-generation Haswell CPU,876
+877,No value found,No value found,877
+878,neutral,Cd Rom,878
+879,negative,features,879
+880,No value found,No value found,880
+881,No value found,No value found,881
+882,negative,volume,882
+883,negative,volume,883
+884,No value found,No value found,884
+885,No value found,No value found,885
+886,neutral,case,886
+887,No value found,No value found,887
+888,positive,price,888
+889,negative,log into the system,889
+890,No value found,No value found,890
+891,neutral,"21"" LED screen",891
+892,neutral,SSD,892
+893,positive,set up,893
+894,No value found,No value found,894
+895,negative,case,895
+896,conflict,size,896
+897,neutral,external power supply,897
+898,neutral,wireless mouse,898
+899,negative,pad,899
+900,positive,works,900
+901,neutral,key board,901
+902,neutral,cost of ownership,902
+903,neutral,price tag,903
+904,positive,features,904
+905,neutral,VGA port,905
+906,neutral,HDMI,906
+907,neutral,ethernet,907
+908,neutral,USB ports,908
+909,No value found,No value found,909
+910,negative,rubber pads,910
+911,No value found,No value found,911
+912,neutral,price,912
+913,conflict,price,913
+914,No value found,No value found,914
+915,positive,heat output,915
+916,positive,operation,916
+917,No value found,No value found,917
+918,No value found,No value found,918
+919,positive,upgrade the ram,919
+920,positive,price,920
+921,neutral,built-in mic,921
+922,negative,Mac OS 10.9,922
+923,neutral,external microphones,923
+924,neutral,features,924
+925,neutral,shortcuts,925
+926,positive,IOS system,926
+927,No value found,No value found,927
+928,positive,resolution,928
+929,negative,fonts,929
+930,No value found,No value found,930
+931,No value found,No value found,931
+932,positive,working,932
+933,positive,features,933
+934,No value found,No value found,934
+935,No value found,No value found,935
+936,positive,brightness,936
+937,positive,adjustments,937
+938,No value found,No value found,938
+939,neutral,CD/DVD player,939
+940,negative,backlit keys,940
+941,neutral,"""Home/End"" type keys",941
+942,neutral,Microsoft Word,942
+943,No value found,No value found,943
+944,positive,memory,944
+945,positive,speed,945
+946,positive,flexibility,946
+947,positive,speed,947
+948,positive,simplicity,948
+949,positive,design,949
+950,No value found,No value found,950
+951,No value found,No value found,951
+952,positive,battery life,952
+953,positive,display,953
+954,positive,downloading apps,954
+955,positive,screen,955
+956,positive,software,956
+957,positive,operating system,957
+958,No value found,No value found,958
+959,No value found,No value found,959
+960,neutral,slim plastic case,960
+961,neutral,recovery USB stick,961
+962,No value found,No value found,962
+963,negative,bass,963
+964,negative,sound,964
+965,No value found,No value found,965
+966,No value found,No value found,966
+967,positive,built quality,967
+968,positive,performance,968
+969,No value found,No value found,969
+970,negative,Bluetooth interface,970
+971,negative,Mac OS,971
+972,negative,range,972
+973,No value found,No value found,973
+974,neutral,start menu,974
+975,No value found,No value found,975
+976,negative,RAM,976
+977,No value found,No value found,977
+978,neutral,touch screen,978
+979,No value found,No value found,979
+980,neutral,games,980
+981,neutral,Photoshop,981
+982,No value found,No value found,982
+983,neutral,"""WLAN"" card",983
+984,neutral,LAN device drivers,984
+985,positive,built,985
+986,positive,battery life,986
+987,No value found,No value found,987
+988,positive,OS,988
+989,neutral,Apple Customer Support,989
+990,No value found,No value found,990
+991,positive,Firewire 800,991
+992,negative,USB3,992
+993,neutral,USB3,993
+994,negative,MAC OS,994
+995,positive,Windows 7,995
+996,positive,iTunes,996
+997,positive,security,997
+998,positive,Mini form factor,998
+999,positive,graphics stuff,999
+1000,negative,card reader,1000
+1001,negative,remove the card,1001
+1002,No value found,No value found,1002
+1003,neutral,spinning hard disk,1003
+1004,positive,ssd drive,1004
+1005,neutral,HDMI,1005
+1006,neutral,firmware patch,1006
+1007,neutral,specs,1007
+1008,No value found,No value found,1008
+1009,positive,packing,1009
+1010,No value found,No value found,1010
+1011,neutral,mother boards,1011
+1012,negative,Mother Board,1012
+1013,negative,graphics card,1013
+1014,neutral,4G of RAM,1014
+1015,neutral,8G of RAM,1015
+1016,positive,performs,1016
+1017,positive,virtual home schooling,1017
+1018,negative,Cost,1018
+1019,positive,operating system,1019
+1020,positive,size,1020
+1021,positive,weight,1021
+1022,positive,mobility,1022
+1023,positive,durability of the battery,1023
+1024,positive,functions provided by the trackpad,1024
+1025,positive,hardware,1025
+1026,No value found,No value found,1026
+1027,neutral,software,1027
+1028,neutral,updates,1028
+1029,neutral,disc drive,1029
+1030,positive,Screen,1030
+1031,positive,res,1031
