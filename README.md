@@ -1,6 +1,6 @@
 # ABSA-Bench
 
-This repository is a part of the experiment that supplements my Research Prpject, 
+This repository is a part of the experiment that supplements my Research Project, 
 " A Benchmark Platform for Analysing Supervised Learning Approaches for Aspect Based Sentiment Analysis"
 
 ## Content
